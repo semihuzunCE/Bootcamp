@@ -1,0 +1,106 @@
+{
+    "tasks": [
+        {
+            "title": "Implement Clean Architecture in Flutter Application",
+            "description": "The objective of this task is to refactor our existing Flutter application to adhere to Clean Architecture principles.",
+            "status": "To Do",
+            "assignee": "semih"
+        },
+        {
+            "title": "Update User Profile Page",
+            "description": "Enhance the user profile page with additional information and customization options.",
+            "status": "In Progress",
+            "assignee": "melis"
+        },
+        {
+            "title": "Implement Two-Factor Authentication",
+            "description": "Add an extra layer of security by implementing two-factor authentication for user accounts.",
+            "status": "To Do",
+            "assignee": "can"
+        },
+        {
+            "title": "Optimize Image Loading for Faster Performance",
+            "description": "Improve the image loading process to optimize app performance and reduce loading times.",
+            "status": "Backlog",
+            "assignee": "eda"
+        },
+        {
+            "title": "Integrate Google Maps API",
+            "description": "Incorporate Google Maps API to provide location-based features within the application.",
+            "status": "To Do",
+            "assignee": "ali"
+        },
+        {
+            "title": "Create Automated Testing Suite",
+            "description": "Develop a comprehensive suite of automated tests to ensure the reliability of the application.",
+            "status": "Backlog",
+            "assignee": "gizem"
+        },
+        {
+            "title": "Implement Real-Time Chat Functionality",
+            "description": "Integrate a real-time chat feature to allow users to communicate seamlessly within the app.",
+            "status": "In Progress",
+            "assignee": "emre"
+        },
+        {
+            "title": "Enhance Search Algorithm",
+            "description": "Improve the search algorithm to provide more accurate and relevant results to users.",
+            "status": "To Do",
+            "assignee": "beyza"
+        },
+        {
+            "title": "Update App Icon and Splash Screen",
+            "description": "Refresh the app icon and splash screen to give the application a modern and polished look.",
+            "status": "In Progress",
+            "assignee": "tuncay"
+        },
+        {
+            "title": "Implement Offline Mode",
+            "description": "Enable users to access certain features of the app even when offline, enhancing overall usability.",
+            "status": "To Do",
+            "assignee": "ilayda"
+        },
+        {
+            "title": "Create User Feedback Survey",
+            "description": "Develop a survey to gather user feedback and improve the application based on user preferences.",
+            "status": "Backlog",
+            "assignee": "murat"
+        },
+        {
+            "title": "Fix Bug in User Authentication Module",
+            "description": "Address a bug in the user authentication module that causes login issues for some users.",
+            "status": "In Progress",
+            "assignee": "ayse"
+        },
+        {
+            "title": "Optimize Database Queries for Improved Performance",
+            "description": "Review and optimize database queries to enhance the overall performance of the application.",
+            "status": "To Do",
+            "assignee": "mehmet"
+        },
+        {
+            "title": "Add Push Notification Support",
+            "description": "Integrate push notification functionality to keep users informed about important updates.",
+            "status": "To Do",
+            "assignee": "ebru"
+        },
+        {
+            "title": "Design UI for Onboarding Screens",
+            "description": "Create a visually appealing user interface for onboarding screens to improve user experience.",
+            "status": "In Progress",
+            "assignee": "cem"
+        },
+        {
+            "title": "Refactor Code for Improved Code Readability",
+            "description": "Review and refactor code to make it more readable and maintainable.",
+            "status": "Backlog",
+            "assignee": "mert"
+        },
+        {
+            "title": "Implement Dark Mode Feature",
+            "description": "Add support for dark mode to provide users with a personalized visual experience.",
+            "status": "Backlog",
+            "assignee": "aslı"
+        }
+    ]
+}
